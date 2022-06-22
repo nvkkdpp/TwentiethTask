@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\bin\Debug\netcoreapp3.1\TwentiethTask.exe
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\bin\Debug\netcoreapp3.1\TwentiethTask.deps.json
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\bin\Debug\netcoreapp3.1\TwentiethTask.runtimeconfig.json
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\bin\Debug\netcoreapp3.1\TwentiethTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\bin\Debug\netcoreapp3.1\TwentiethTask.dll
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\bin\Debug\netcoreapp3.1\TwentiethTask.pdb
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.dll
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.pdb
+C:\Users\Илья\source\repos\TwentiethTask\TwentiethTask\obj\Debug\netcoreapp3.1\TwentiethTask.genruntimeconfig.cache
